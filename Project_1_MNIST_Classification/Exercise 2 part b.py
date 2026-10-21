@@ -1,4 +1,5 @@
 #Exercise 2 part b)
+#
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
